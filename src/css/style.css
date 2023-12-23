@@ -225,7 +225,7 @@ h1 {
 
 
 .container-books .patrick .book.vento {
-    background-image: url(./src/images/images-books/vento.png);
+    background-image: url(../src/images/images-books/vento.png);
 }
 
 .container-books .patrick .book.sabio {
