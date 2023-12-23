@@ -147,79 +147,79 @@ h1 {
 
 
 .container-animes .anime.naruto {
-    background-image: url(/src/images/nrt-capa.png);
+    background-image: url(../images/nrt-capa.png);
 }
 
 .container-animes .anime.fullmetal {
-    background-image: url(/src/images/fullmetal.png);
+    background-image: url(../images/fullmetal.png);
 }
 
 .container-animes .anime.hxh {
-    background-image: url(/src/images/hxh.png);
+    background-image: url(../images/hxh.png);
 }
 
 .container-animes .anime.titan {
-    background-image: url(/src/images/aot.png);
+    background-image: url(../images/aot.png);
 }
 
 .container-animes .anime.slayer {
-    background-image: url(/src/images/slayer.png);
+    background-image: url(../images/slayer.png);
 }
 
 .container-animes .anime.steins {
-    background-image: url(/src/images/gate.png);
+    background-image: url(../images/gate.png);
 }
 
 .container-animes .anime.steins0 {
-    background-image: url(/src/images/gate-0.png);
+    background-image: url(../images/gate-0.png);
 }
 
 .container-animes .anime.erased {
-    background-image: url(/src/images/erased.png);
+    background-image: url(../images/erased.png);
 }
 
 .container-animes .anime.tokyo {
-    background-image: url(/src/images/tokyo.png );
+    background-image: url(../images/tokyo.png);
 }
 
 .container-animes .anime.steins0 {
-    background-image: url(/src/images/gate-0.png);
+    background-image: url(../images/gate-0.png);
 }
 
 .container-animes .anime.note {
-    background-image: url(/src/images/note.png);
+    background-image: url(../images/note.png);
 }
 
 .container-animes .anime.vinland {
-    background-image: url(/src/images/vs.png);
+    background-image: url(../images/vs.png);
 }
 
 .container-animes .anime.piece {
-    background-image: url(/src/images/op.png);
+    background-image: url(../images/op.png);
 }
 
 .container-animes .anime.puch {
-    background-image: url(/src/images/one-puch.png);
+    background-image: url(../images/one-puch.png);
 }
 
 .container-animes .anime.boku {
-    background-image: url(/src/images/boku.png);
+    background-image: url(../images/boku.png);
 }
 
 .container-animes .anime.haikyu {
-    background-image: url(/src/images/haikyu.png);
+    background-image: url(../images/haikyu.png);
 }
 
 .container-animes .anime.jujutsu {
-    background-image: url(/src/images/jjk.png);
+    background-image: url(../images/jjk.png);
 }
 
 .container-animes .anime.chaisaw {
-    background-image: url(/src/images/chaisaw.png);
+    background-image: url(../images/chaisaw.png);
 }
 
 .container-animes .anime.promissied {
-    background-image: url(/src/images/tpn.png);
+    background-image: url(../images/tpn.png);
 }
 
 
@@ -229,551 +229,547 @@ h1 {
 }
 
 .container-books .patrick .book.sabio {
-    background-image: url(./src/images/images-books/sabio.png);
+    background-image: url(../images/images-books/sabio.png);
 }
 
 .container-books .patrick .book.musica {
-    background-image: url(./src/images/images-books/musica.png);
+    background-image: url(../images/images-books/musica.png);
 }
 
 .container-books .king .book.it {
-    background-image: url(/src/images/images-books/it.png);
+    background-image: url(../images/images-books/it.png);
 }
 
 .container-books .king .book.nov {
-    background-image: url(/src/images/images-books/nov63.png);
+    background-image: url(../images/images-books/nov63.png);
 }
 
 .container-books .king .book.morte {
-    background-image: url(/src/images/images-books/morte.png);
+    background-image: url(../images/images-books/morte.png);
 }
 
 .container-books .king .book.redoma {
-    background-image: url(/src/images/images-books/redoma.png);
+    background-image: url(../images/images-books/redoma.png);
 }
 
 .container-books .king .book.cemiterio {
-    background-image: url(/src/images/images-books/cemiterio.png);
+    background-image: url(../images/images-books/cemiterio.png);
 }
 
 .container-books .king .book.misery {
-    background-image: url(/src/images/images-books/misery.png);
+    background-image: url(../images/images-books/misery.png);
 }
 
 .container-books .king .book.joyland {
-    background-image: url(/src/images/images-books/joyland.png);
+    background-image: url(../images/images-books/joyland.png);
 }
 
 .container-books .king .book.salem {
-    background-image: url(/src/images/images-books/salem.png);
+    background-image: url(../images/images-books/salem.png);
 }
 
 .container-books .king .book.mercedes {
-    background-image: url(/src/images/images-books/mercedes.png);
+    background-image: url(../images/images-books/mercedes.png);
 }
 
 .container-books .king .book.cujo {
-    background-image: url(/src/images/images-books/cujo.png);
+    background-image: url(../images/images-books/cujo.png);
 }
 
 .container-books .king .book.estacoes {
-    background-image: url(/src/images/images-books/estacoes.png);
+    background-image: url(../images/images-books/estacoes.png);
 }
 
 .container-books .king .book.sombria {
-    background-image: url(/src/images/images-books/sombria.png);
+    background-image: url(../images/images-books/sombria.png);
 }
 
 .container-books .king .book.morta {
-    background-image: url(/src/images/images-books/morta.png);
+    background-image: url(../images/images-books/morta.png);
 }
 
 .container-books .king .book.christine {
-    background-image: url(/src/images/images-books/christine.png);
+    background-image: url(../images/images-books/christine.png);
 }
 
 .container-books .king .book.outsider {
-    background-image: url(/src/images/images-books/outsider.png);
+    background-image: url(../images/images-books/outsider.png);
 }
 
 .container-books .king .book.eventual {
-    background-image: url(/src/images/images-books/eventual.png);
+    background-image: url(../images/images-books/eventual.png);
 }
 
 .container-books .king .book.iluminado {
-    background-image: url(/src/images/images-books/iluminado.png);
+    background-image: url(../images/images-books/iluminado.png);
 }
 
 .container-books .king .book.sono {
-    background-image: url(/src/images/images-books/sono.png);
+    background-image: url(../images/images-books/sono.png);
 }
 
 .container-books .king .book.escrita {
-    background-image: url(/src/images/images-books/escrita.png);
+    background-image: url(../images/images-books/escrita.png);
 }
 
 .container-books .king .book.escrita {
-    background-image: url(/src/images/images-books/escrita.png);
+    background-image: url(../images/images-books/escrita.png);
 }
 
 .container-books .king .book.lobisomen {
-    background-image: url(/src/images/images-books/lobisomen1.png);
+    background-image: url(../images/images-books/lobisomen1.png);
 }
 
 .container-books .king .book.depois {
-    background-image: url(/src/images/images-books/depois.png);
+    background-image: url(../images/images-books/depois.png);
 }
 
 .container-books .king .book.sangue {
-    background-image: url(/src/images/images-books/sangue.png);
+    background-image: url(../images/images-books/sangue.png);
 }
 
 .container-books .king .book.escuridao {
-    background-image: url(/src/images/images-books/escuridao1.png);
+    background-image: url(../images/images-books/escuridao1.png);
 }
 
 .container-books .king .book.billy {
-    background-image: url(/src/images/images-books/billy.png);
+    background-image: url(../images/images-books/billy.png);
 }
 
 .container-books .king .book.marcha {
-    background-image: url(/src/images/images-books/marcha.png);
+    background-image: url(../images/images-books/marcha.png);
 }
 
 .container-books .king .book.milagre {
-    background-image: url(/src/images/images-books/milagre.png);
+    background-image: url(../images/images-books/milagre.png);
 }
 
 .container-books .king .book.ascensao {
-    background-image: url(/src/images/images-books/ascensao.png);
+    background-image: url(../images/images-books/ascensao.png);
 }
 
 .container-books .king .book.love {
-    background-image: url(/src/images/images-books/love.png);
+    background-image: url(../images/images-books/love.png);
 }
 
 .container-books .king .book.holly {
-    background-image: url(/src/images/images-books/holly.png);
+    background-image: url(../images/images-books/holly.png);
 }
 
 .container-books .king .book.torre1 {
-    background-image: url(/src/images/images-books/torre1.png);
+    background-image: url(../images/images-books/torre1.png);
 }
 
 .container-books .king .book.torre2 {
-    background-image: url(/src/images/images-books/torre2.png);
+    background-image: url(../images/images-books/torre2.png);
 }
 
 .container-books .king .book.torre3 {
-    background-image: url(/src/images/images-books/torre3.png);
+    background-image: url(../images/images-books/torre3.png);
 }
 
 .container-books .king .book.torre4 {
-    background-image: url(/src/images/images-books/torre4.png);
+    background-image: url(../images/images-books/torre4.png);
 }
 
 .container-books .king .book.torre4-5 {
-    background-image: url(/src/images/images-books/torre4-5.png);
+    background-image: url(../images/images-books/torre4-5.png);
 }
 
 .container-books .king .book.torre5 {
-    background-image: url(/src/images/images-books/torre5.png);
+    background-image: url(../images/images-books/torre5.png);
 }
 
 .container-books .king .book.torre6 {
-    background-image: url(/src/images/images-books/torre6.png);
+    background-image: url(../images/images-books/torre6.png);
 }
 
-
 .container-books .king .book.torre7 {
-    background-image: url(/src/images/images-books/torre7.png);
+    background-image: url(../images/images-books/torre7.png);
 }
 
 .container-books .potter .book.potter1 {
-    background-image: url(/src/images/images-books/hp1.png);
+    background-image: url(../images/images-books/hp1.png);
 }
 
 .container-books .potter .book.potter2 {
-    background-image: url(/src/images/images-books/hp2.png);
+    background-image: url(../images/images-books/hp2.png);
 }
 
 .container-books .potter .book.potter3 {
-    background-image: url(/src/images/images-books/hp3.png);
+    background-image: url(../images/images-books/hp3.png);
 }
 
 .container-books .potter .book.potter4 {
-    background-image: url(/src/images/images-books/hp4.png);
+    background-image: url(../images/images-books/hp4.png);
 }
 
 .container-books .potter .book.potter5 {
-    background-image: url(/src/images/images-books/hp5.png);
+    background-image: url(../images/images-books/hp5.png);
 }
 
 .container-books .potter .book.potter6 {
-    background-image: url(/src/images/images-books/hp6.png);
+    background-image: url(../images/images-books/hp6.png);
 }
 
 .container-books .potter .book.potter7 {
-    background-image: url(/src/images/images-books/hp7.png);
+    background-image: url(../images/images-books/hp7.png);
 }
 
 .container-books .artur .book.artur1 {
-    background-image: url(/src/images/images-books/artur1.png);
+    background-image: url(../images/images-books/artur1.png);
 }
 
 .container-books .artur .book.artur2 {
-    background-image: url(/src/images/images-books/artur2.png);
+    background-image: url(../images/images-books/artur2.png);
 }
 
 .container-books .artur .book.artur3 {
-    background-image: url(/src/images/images-books/artur3.png);
+    background-image: url(../images/images-books/artur3.png);
 }
 
 .container-books .terra .book.terra1 {
-    background-image: url(/src/images/images-books/terra1.png);
+    background-image: url(../images/images-books/terra1.png);
 }
 
 .container-books .terra .book.terra2 {
-    background-image: url(/src/images/images-books/terra2.png);
+    background-image: url(../images/images-books/terra2.png);
 }
 
 .container-books .terra .book.terra3 {
-    background-image: url(/src/images/images-books/terra3.png);
+    background-image: url(../images/images-books/terra3.png);
 }
 
 .container-books .vorazes .book.vorazes1 {
-    background-image: url(/src/images/images-books/vorazes1.png);
+    background-image: url(../images/images-books/vorazes1.png);
 }
 
 .container-books .vorazes .book.vorazes2 {
-    background-image: url(/src/images/images-books/vorazes2.png);
+    background-image: url(../images/images-books/vorazes2.png);
 }
 
 .container-books .vorazes .book.vorazes3 {
-    background-image: url(/src/images/images-books/vorazes3.png);
+    background-image: url(../images/images-books/vorazes3.png);
 }
 
 .container-books .millenium .book.millenium1 {
-    background-image: url(/src/images/images-books/millenium1.png);
+    background-image: url(../images/images-books/millenium1.png);
 }
 
 .container-books .millenium .book.millenium2 {
-    background-image: url(/src/images/images-books/millenium2.png);
+    background-image: url(../images/images-books/millenium2.png);
 }
 
 /* .container-books .millenium .book.millenium3 {
-    background-image: url(/src/images/images-books/millenium3.png);
+    background-image: url(../images/images-books/millenium3.png);
 } */
 
 .container-books .montes .book.montes1 {
-    background-image: url(/src/images/images-books/montes1.png);
+    background-image: url(../images/images-books/montes1.png);
 }
 
 .container-books .montes .book.montes2 {
-    background-image: url(/src/images/images-books/montes2.png);
+    background-image: url(../images/images-books/montes2.png);
 }
 
 .container-books .montes .book.montes3 {
-    background-image: url(/src/images/images-books/montes3.png);
+    background-image: url(../images/images-books/montes3.png);
 }
 
 .container-books .montes .book.montes4 {
-    background-image: url(/src/images/images-books/montes4.png);
+    background-image: url(../images/images-books/montes4.png);
 }
 
 .container-books .montes .book.montes5 {
-    background-image: url(/src/images/images-books/montes5.png);
+    background-image: url(../images/images-books/montes5.png);
 }
 
 .container-books .montes .book.montes6 {
-    background-image: url(/src/images/images-books/montes6.png);
+    background-image: url(../images/images-books/montes6.png);
 }
 
 .container-books .asimov .book.fundacao1 {
-    background-image: url(/src/images/images-books/fundacao1.png);
+    background-image: url(../images/images-books/fundacao1.png);
 }
 
 .container-books .asimov .book.fundacao2 {
-    background-image: url(/src/images/images-books/fundacao2.png);
+    background-image: url(../images/images-books/fundacao2.png);
 }
 
 .container-books .asimov .book.fundacao3 {
-    background-image: url(/src/images/images-books/fundacao3.png);
+    background-image: url(../images/images-books/fundacao3.png);
 }
 
 .container-books .asimov .book.eternidade {
-    background-image: url(/src/images/images-books/eternidade.png);
+    background-image: url(../images/images-books/eternidade.png);
 }
 
 .container-books .coben .book.coben1 {
-    background-image: url(/src/images/images-books/coben1.png);
+    background-image: url(../images/images-books/coben1.png);
 }
 
 .container-books .coben .book.coben2 {
-    background-image: url(/src/images/images-books/coben2.png);
+    background-image: url(../images/images-books/coben2.png);
 }
 
 .container-books .coben .book.coben3 {
-    background-image: url(/src/images/images-books/coben3.png);
+    background-image: url(../images/images-books/coben3.png);
 }
 
 .container-books .coben .book.coben4 {
-    background-image: url(/src/images/images-books/coben4.png);
+    background-image: url(../images/images-books/coben4.png);
 }
 
 .container-books .joe .book.joe1 {
-    background-image: url(/src/images/images-books/joe1.png);
+    background-image: url(../images/images-books/joe1.png);
 }
 
 .container-books .joe .book.joe2 {
-    background-image: url(/src/images/images-books/joe2.png);
+    background-image: url(../images/images-books/joe2.png);
 }
 
 .container-books .joe .book.joe3 {
-    background-image: url(/src/images/images-books/joe3.png);
+    background-image: url(../images/images-books/joe3.png);
 }
 
 .container-books .blake .book.blake1 {
-    background-image: url(/src/images/images-books/blake1.png);
+    background-image: url(../images/images-books/blake1.png);
 }
 
 .container-books .blake .book.blake2 {
-    background-image: url(/src/images/images-books/blake2.png);
+    background-image: url(../images/images-books/blake2.png);
 }
 
 .container-books .blake .book.blake3 {
-    background-image: url(/src/images/images-books/blake3.png);
+    background-image: url(../images/images-books/blake3.png);
 }
 
 .container-books .joel .book.joel1 {
-    background-image: url(/src/images/images-books/joel1.png);
+    background-image: url(../images/images-books/joel1.png);
 }
 
 .container-books .joel .book.joel2 {
-    background-image: url(/src/images/images-books/joel2.png);
+    background-image: url(../images/images-books/joel2.png);
 }
 
 .container-books .joel .book.joel3 {
-    background-image: url(/src/images/images-books/joel3.png);
+    background-image: url(../images/images-books/joel3.png);
 }
 
 .container-books .agata .book.agata1 {
-    background-image: url(/src/images/images-books/agata1.png);
+    background-image: url(../images/images-books/agata1.png);
 }
 
 .container-books .agata .book.agata2 {
-    background-image: url(/src/images/images-books/agata2.png);
+    background-image: url(../images/images-books/agata2.png);
 }
 
 .container-books .agata .book.agata3 {
-    background-image: url(/src/images/images-books/agata3.png);
+    background-image: url(../images/images-books/agata3.png);
 }
 
 .container-books .holmes .book.holmes1 {
-    background-image: url(/src/images/images-books/holmes1.png);
+    background-image: url(../images/images-books/holmes1.png);
 }
 
 .container-books .holmes .book.holmes2 {
-    background-image: url(/src/images/images-books/holmes2.png);
+    background-image: url(../images/images-books/holmes2.png);
 }
 
 .container-books .holmes .book.holmes3 {
-    background-image: url(/src/images/images-books/holmes3.png);
+    background-image: url(../images/images-books/holmes3.png);
 }
 
 .container-books .weschenfelder .book.weschenfelder1 {
-    background-image: url(/src/images/images-books/weschenfelder1.png);
+    background-image: url(../images/images-books/weschenfelder1.png);
 }
 
 .container-books .weschenfelder .book.weschenfelder2 {
-    background-image: url(/src/images/images-books/weschenfelder2.png);
+    background-image: url(../images/images-books/weschenfelder2.png);
 }
 
 .container-books .weschenfelder .book.weschenfelder3 {
-    background-image: url(/src/images/images-books/weschenfelder3.png);
+    background-image: url(../images/images-books/weschenfelder3.png);
 }
 
 .container-books .gustavo .book.gustavo1 {
-    background-image: url(/src/images/images-books/gustavo1.png);
+    background-image: url(../images/images-books/gustavo1.png);
 }
 
 .container-books .gustavo .book.gustavo2 {
-    background-image: url(/src/images/images-books/gustavo2.png);
+    background-image: url(../images/images-books/gustavo2.png);
 }
 
 .container-books .gustavo .book.gustavo3 {
-    background-image: url(/src/images/images-books/gustavo3.png);
+    background-image: url(../images/images-books/gustavo3.png);
 }
 
 .container-books .dennis .book.dennis1 {
-    background-image: url(/src/images/images-books/dennis1.png);
+    background-image: url(../images/images-books/dennis1.png);
 }
 
 .container-books .dennis .book.dennis2 {
-    background-image: url(/src/images/images-books/dennis2.png);
+    background-image: url(../images/images-books/dennis2.png);
 }
 
 .container-books .victor .book.victor1 {
-    background-image: url(/src/images/images-books/victor1.png);
+    background-image: url(../images/images-books/victor1.png);
 }
 
 .container-books .victor .book.victor2 {
-    background-image: url(/src/images/images-books/victor2.png);
+    background-image: url(../images/images-books/victor2.png);
 }
 
 .container-books .michel .book.michel1 {
-    background-image: url(/src/images/images-books/michel1.png);
+    background-image: url(../images/images-books/michel1.png);
 }
 
 .container-books .michel .book.michel2 {
-    background-image: url(/src/images/images-books/michel2.png);
+    background-image: url(../images/images-books/michel2.png);
 }
 
 .container-books .taylor .book.taylor1 {
-    background-image: url(/src/images/images-books/taylor1.png);
+    background-image: url(../images/images-books/taylor1.png);
 }
 
 .container-books .taylor .book.taylor2 {
-    background-image: url(/src/images/images-books/taylor2.png);
+    background-image: url(../images/images-books/taylor2.png);
 }
 
 .container-books .rafael .book.rafael1 {
-    background-image: url(/src/images/images-books/rafael1.png);
+    background-image: url(../images/images-books/rafael1.png);
 }
 
 .container-books .rafael .book.rafael2 {
-    background-image: url(/src/images/images-books/rafael2.png);
+    background-image: url(../images/images-books/rafael2.png);
 }
 
-
-
 .container-books .outros .book.impulso {
-    background-image: url(/src/images/images-books/impulso.png);
+    background-image: url(../images/images-books/impulso.png);
 }
 
 .container-books .outros .book.psicose {
-    background-image: url(/src/images/images-books/psicose.png);
+    background-image: url(../images/images-books/psicose.png);
 }
 
 .container-books .outros .book.imaginario {
-    background-image: url(/src/images/images-books/imaginario.png);
+    background-image: url(../images/images-books/imaginario.png);
 }
 
 .container-books .outros .book.invisivel {
-    background-image: url(/src/images/images-books/invisivel.png);
+    background-image: url(../images/images-books/invisivel.png);
 }
 
 .container-books .outros .book.passarinha {
-    background-image: url(/src/images/images-books/passarinha.png);
+    background-image: url(../images/images-books/passarinha.png);
 }
 
 .container-books .outros .book.arado {
-    background-image: url(/src/images/images-books/arado.png);
+    background-image: url(../images/images-books/arado.png);
 }
 
 .container-books .outros .book.blade {
-    background-image: url(/src/images/images-books/blade.png);
+    background-image: url(../images/images-books/blade.png);
 }
 
 .container-books .outros .book.algernon {
-    background-image: url(/src/images/images-books/algernon.png);
+    background-image: url(../images/images-books/algernon.png);
 }
 
 .container-books .outros .book.oceano {
-    background-image: url(/src/images/images-books/oceano.png);
+    background-image: url(../images/images-books/oceano.png);
 }
 
 .container-books .outros .book.veronica {
-    background-image: url(/src/images/images-books/veronica.png);
+    background-image: url(../images/images-books/veronica.png);
 }
 
 .container-books .outros .book.jardim {
-    background-image: url(/src/images/images-books/jardim.png);
+    background-image: url(../images/images-books/jardim.png);
 }
 
 .container-books .outros .book.colecionador {
-    background-image: url(/src/images/images-books/colecionador.png);
+    background-image: url(../images/images-books/colecionador.png);
 }
 
 .container-books .outros .book.duna {
-    background-image: url(/src/images/images-books/duna.png);
+    background-image: url(../images/images-books/duna.png);
 }
 
 .container-books .outros .book.tribunal {
-    background-image: url(/src/images/images-books/tribunal.png);
+    background-image: url(../images/images-books/tribunal.png);
 }
 
 .container-books .outros .book.mason {
-    background-image: url(/src/images/images-books/mason.png);
+    background-image: url(../images/images-books/mason.png);
 }
 
 .container-books .outros .book.strange {
-    background-image: url(/src/images/images-books/strange.png);
+    background-image: url(../images/images-books/strange.png);
 }
 
 .container-books .outros .book.areia {
-    background-image: url(/src/images/images-books/areia.png);
+    background-image: url(../images/images-books/areia.png);
 }
 
 .container-books .outros .book.metamorfose {
-    background-image: url(/src/images/images-books/metamorfose.png);
+    background-image: url(../images/images-books/metamorfose.png);
 }
 
 .container-books .outros .book.arqueiro {
-    background-image: url(/src/images/images-books/arqueiro.png);
+    background-image: url(../images/images-books/arqueiro.png);
 }
 
 .container-books .outros .book.davinci {
-    background-image: url(/src/images/images-books/davinci.png);
+    background-image: url(../images/images-books/davinci.png);
 }
 
 .container-books .outros .book.borboletas {
-    background-image: url(/src/images/images-books/borboletas.png);
+    background-image: url(../images/images-books/borboletas.png);
 }
 
 .container-books .outros .book.exemplar {
-    background-image: url(/src/images/images-books/exemplar.png);
+    background-image: url(../images/images-books/exemplar.png);
 }
 
 .container-books .outros .book.deixei {
-    background-image: url(/src/images/images-books/deixei.png);
+    background-image: url(../images/images-books/deixei.png);
 }
 
 .container-books .outros .book.orfanato1 {
-    background-image: url(/src/images/images-books/orfanato1.png);
+    background-image: url(../images/images-books/orfanato1.png);
 }
 
 .container-books .outros .book.orfanato2 {
-    background-image: url(/src/images/images-books/orfanato2.png);
+    background-image: url(../images/images-books/orfanato2.png);
 }
 
 .container-books .outros .book.orfanato3 {
-    background-image: url(/src/images/images-books/orfanato3.png);
+    background-image: url(../images/images-books/orfanato3.png);
 }
 
 .container-books .outros .book.rainha {
-    background-image: url(/src/images/images-books/rainha.png);
+    background-image: url(../images/images-books/rainha.png);
 }
 
 .container-books .outros .book.espada {
-    background-image: url(/src/images/images-books/espada.png);
+    background-image: url(../images/images-books/espada.png);
 }
 
 .container-books .outros .book.ossos {
-    background-image: url(/src/images/images-books/ossos.png);
+    background-image: url(../images/images-books/ossos.png);
 }
 
 .container-books .outros .book.cinzas {
-    background-image: url(/src/images/images-books/cinzas.png);
+    background-image: url(../images/images-books/cinzas.png);
 }
 
-
 .container-books .outros .book.magos {
-    background-image: url(/src/images/images-books/magos.png);
+    background-image: url(../images/images-books/magos.png);
 }
 
 .container-books .outros .book.segunda {
-    background-image: url(/src/images/images-books/segunda.png);
+    background-image: url(../images/images-books/segunda.png);
 }
 
 
