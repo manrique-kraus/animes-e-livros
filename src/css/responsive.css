@@ -2,4 +2,8 @@
     .container-books .box {
         justify-content: center;
     }
+
+    .container-books h2 {
+        margin-left: 1rem;
+    }
 }
