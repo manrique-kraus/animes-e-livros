@@ -225,15 +225,15 @@ h1 {
 
 
 .container-books .patrick .book.vento {
-    background-image: url(/src/images/images-books/vento.png);
+    background-image: url(./src/images/images-books/vento.png);
 }
 
 .container-books .patrick .book.sabio {
-    background-image: url(/src/images/images-books/sabio.png);
+    background-image: url(./src/images/images-books/sabio.png);
 }
 
 .container-books .patrick .book.musica {
-    background-image: url(/src/images/images-books/musica.png);
+    background-image: url(./src/images/images-books/musica.png);
 }
 
 .container-books .king .book.it {
