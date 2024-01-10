@@ -712,6 +712,14 @@ h2,
     background-image: url(../images/images-books/oceano.png);
 }
 
+.container-books .outros .book.kevin {
+    background-image: url(../images/images-books/kevin.png);
+}
+
+.container-books .outros .book.sally {
+    background-image: url(../images/images-books/sally.png);
+}
+
 .container-books .outros .book.veronica {
     background-image: url(../images/images-books/veronica.png);
 }
